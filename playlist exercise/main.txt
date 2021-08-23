@@ -1,0 +1,4 @@
+import re
+a=int(input('Enter something\n'))
+b=int(input('Enter something\n'))
+print('The sum of the two numbers you have entered is ',a+b)
